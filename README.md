@@ -29,8 +29,8 @@ curl http://localhost:8080/jobs/<job_id>
 
 ## Steps to Run - Redis_SuperAlign
 To run Redis, you can do this in two ways:
-- Using Docker (Assuming Ubuntu system)
-  - Install Docker from the following link: https://docs.docker.com/engine/install/ubuntu/
+- Using Docker
+  - Install Docker from the following link: https://docs.docker.com/engine/install/
   - Start docker engine from terminal
   - Use following command to run Redis image
     ```
